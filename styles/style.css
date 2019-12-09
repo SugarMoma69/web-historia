@@ -3,9 +3,14 @@ html {
 }
 
 body {
+	border-radius: 25px;
 	background-color: red;
 	margin: auto;
-	max-width: 600px;
-	height: 600px;
-	
+	max-width: 700px;
+	height: 1000px;
+	border-style: dotted;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 20px;
+	padding-bottom: 50px;
 }
